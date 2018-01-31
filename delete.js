@@ -17,3 +17,6 @@ console.log(data1);
 data2 = 10;
 console.log(delete data2);
 console.log(data2);
+
+
+//data
