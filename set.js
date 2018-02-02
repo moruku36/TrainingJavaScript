@@ -8,3 +8,13 @@ s.add(5);
 
 console.log(s.has(100));
 console.log(s.size);
+
+for(let val of s.values()){
+  console.log(val);
+}
+
+s.delete(100);
+console.log(s.size);
+
+s.clear();
+console.log(s.size);
