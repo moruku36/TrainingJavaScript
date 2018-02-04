@@ -1,3 +1,3 @@
 var obj = {hoge:1,foo:2};
-var prop ='hoge';
-eval('console.log(obj.'+prop+')');
+var prop = 'hoge';
+eval('console.log(obj.'+prop+')'); //結果:1
