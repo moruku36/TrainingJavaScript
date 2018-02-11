@@ -5,3 +5,5 @@ data.push(3);
 console.log(data.pop());
 console.log(data.pop());
 console.log(data.pop());
+
+//faafa
