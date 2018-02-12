@@ -7,3 +7,4 @@ console.log(data.pop());
 console.log(data.pop());
 
 //faafa
+//aasda
